@@ -12,15 +12,15 @@ A fascinating, excellent show about curiosity. Where sound illuminates ideas, an
 - Planet Money     
 The economy, explained, with stories and surprises. 
 - Intelligence Squared 
-- The Moth 
+- The Moth
 - Sci Fri   
 Each week, host Ira Flatow interviews scientists and inventors covering everything about science and technology creating entertaining and educational stories everyone should have heard about
 - Freakonomics Radio    
 Discovering the hidden side of everything - with Stephen J. Dubner and Steve Levitt. Each week, hear surprising conversations that explore the riddles of everyday life and the weird wrinkles of human nature—from cheating and crime to parenting and sports. 
-- Note to Self    
 - Invisibilia    
 Invisibilia (Latin for invisible things) is about the invisible forces that control human behavior – ideas, beliefs, assumptions and emotions. Co-hosted by Lulu Miller, Hanna Rosin and Alix Spiegel, Invisibilia interweaves narrative storytelling with scientific research that will ultimately make you see your own life differently.
-- Serial
+- Serial    
+Serial is a podcast from the creators of This American Life, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. 
 - About Race   
 If you are American (but especially if you are not but live in America) - this show will help you better understand the complexities, nuances and obviousnesses of race, society and history in the United States: Co-discussants Anna Holmes, Baratunde Thurston, Raquel Cepeda and Tanner Colby host a lively multiracial, interracial conversation about the ways we can’t talk, don’t talk, would rather not talk, but intermittently, fitfully, embarrassingly do talk about culture, identity, politics, power, and privilege in our pre-post-yet-still-very-racial America. 
 - Think Again    
@@ -29,12 +29,14 @@ The Big Think podcasts aims to surprise some of the world's brightest minds with
 - 2 Dope Queens    
 Join the 2 Dope Queens, Phoebe Robinson and Jessica Williams, along with their favorite comedians, for stories about sex, romance, race, hair journeys, living in New York, and Billy Joel. 
 - 99% Invisible
-- Note to Self
+- Note to Self    
+Discussing the essential quandaries facing anyone trying to preserve their humanity in the digital age. 
 - On being
 - More Perfect    
 More Perfect is a series about the Supreme Court exploring how cases deliberated inside the rarefied world of the Supreme Court affect our lives far away from the bench.
 - Revisionist History
-- Vox's The Weeds
+- Vox's The Weeds    
+The podcast for people who follow politics because they love thinking about health care, economics, and zoning
 - OE1 Betrifft Geschichte (de)    
 Ob zu Rittern oder Terroristen - Expertinnen und Experten werden so geschickt gefragt, dass sich gut und gerne fünf Minuten zuhören lässt, wie sich eine Antwort entfaltet. Von Montag bis Freitag.
 - Radiowissen (de)
