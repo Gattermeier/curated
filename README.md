@@ -1,2 +1,2 @@
-# curated
-Curated brain food recommendations
+# Curated brain food recommendations
+
