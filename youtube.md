@@ -1,1 +1,10 @@
 # YouTube Channels
+- [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA)
+- [Kurzgesagt - In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+- []()
+- []()
+- []()
+- []()
+- []()
+[]()
+[]()
