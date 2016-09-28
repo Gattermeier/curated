@@ -18,3 +18,5 @@
 - [Vihart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg)
 - [Zeitgeist Minds](https://www.youtube.com/channel/UC522meTsOjFWjSdLLrEMMBA)
 
+# YouTube Clips
+- [The Overview Effect](https://www.youtube.com/watch?v=U2iEURp1NOE)
