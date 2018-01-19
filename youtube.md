@@ -17,6 +17,8 @@
 - [The Guardian](https://www.youtube.com/channel/UCHpw8xwDNhU9gdohEcJu4aA)
 - [Vihart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg)
 - [Zeitgeist Minds](https://www.youtube.com/channel/UC522meTsOjFWjSdLLrEMMBA)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
 
 # YouTube Clips
 - [The Overview Effect](https://www.youtube.com/watch?v=U2iEURp1NOE)
