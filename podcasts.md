@@ -1,6 +1,6 @@
 # Podcasts
 
-- The Daily
+- The Daily  
 Twenty minutes a day, five days a week, hosted by Michael Barbaro and powered by New York Times journalism.
 - NPR: Ted radio hour    
 The TED Radio Hour is a journey through fascinating ideas: astonishing inventions, fresh approaches to old problems, new ways to think and create. Based on Talks given by riveting speakers on the world-renowned TED stage.
@@ -8,9 +8,9 @@ The TED Radio Hour is a journey through fascinating ideas: astonishing invention
 This series from Mike Duncan made me a podcast addict. You HAVE to listen to ALL of it. The History of Rome is a now completed weekly podcast tracing the history of the Roman Empire, beginning with Aeneas's arrival in Italy and ending with the exile of Romulus Augustulus, last Emperor of the Western Roman Empire. 
 - Revolutions    
 A weekly podcast series by Mike Duncan examining great political revolutions. From the French, Haitian to the Latin American Revolutions. 
-- How I built it
+- How I built it  
 a podcast about innovators, entrepreneurs, and idealists, and the stories behind the movements they built. Each episode is a narrative journey marked by triumphs, failures, serendipity and insight — told by the founders of some of the world's best known companies and brands. If you've ever built something from nothing, something you really care about — or even just dream about it — check out.
-- Code Switch 
+- Code Switch  
 Ever find yourself in a conversation about race and identity where you just get...stuck? Code Switch can help. We're all journalists of color, and this isn't just the work we do. It's the lives we lead. Sometimes, we'll make you laugh. Other times, you'll get uncomfortable. But we'll always be unflinchingly honest and empathetic. 
 - This American Life    
 - Radiolab    
@@ -43,11 +43,11 @@ More Perfect is a series about the Supreme Court exploring how cases deliberated
 - Revisionist History
 - Vox's The Weeds    
 The podcast for people who follow politics because they love thinking about health care, economics, and zoning
-- Last Name Basis
+- Last Name Basis  
 Super fun weekly podcast hosted by a married couple: Franchesca & Patrick
 - OE1 Betrifft Geschichte (de)    
 Ob zu Rittern oder Terroristen - Expertinnen und Experten werden so geschickt gefragt, dass sich gut und gerne fünf Minuten zuhören lässt, wie sich eine Antwort entfaltet. Von Montag bis Freitag.
-- Radiowissen (de)
+- Radiowissen (de)  
 radioWissen, ein sinnliches Hörerlebnis mit Anspruch: Spannendes aus der Geschichte, Interessantes aus Literatur und Musik, Faszinierendes über Mythen, Menschen und Religionen, Erhellendes aus Philosophie und Psychologie. Wissenswertes über Natur, Biologie und Umwelt, Hintergründe zu Wirtschaft und Politik
-- IQ Wissenschaft und Forschung (de)
+- IQ Wissenschaft und Forschung (de)  
 schaut genau hin, auf den Menschen und seine Gesundheit, auf die Erde und ihr Klima, auf die Technik, die die Welt bewegt, auf die Gesellschaft, die sich verändert. Gut recherchiert, verständlich erklärt. 
