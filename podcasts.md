@@ -1,5 +1,7 @@
 # Podcasts
 
+- The Daily
+Twenty minutes a day, five days a week, hosted by Michael Barbaro and powered by New York Times journalism.
 - NPR: Ted radio hour    
 The TED Radio Hour is a journey through fascinating ideas: astonishing inventions, fresh approaches to old problems, new ways to think and create. Based on Talks given by riveting speakers on the world-renowned TED stage.
 - The History of Rome    
@@ -41,6 +43,8 @@ More Perfect is a series about the Supreme Court exploring how cases deliberated
 - Revisionist History
 - Vox's The Weeds    
 The podcast for people who follow politics because they love thinking about health care, economics, and zoning
+- Last Name Basis
+Super fun weekly podcast hosted by a married couple: Franchesca & Patrick
 - OE1 Betrifft Geschichte (de)    
 Ob zu Rittern oder Terroristen - Expertinnen und Experten werden so geschickt gefragt, dass sich gut und gerne fünf Minuten zuhören lässt, wie sich eine Antwort entfaltet. Von Montag bis Freitag.
 - Radiowissen (de)
