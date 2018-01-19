@@ -44,4 +44,6 @@ The podcast for people who follow politics because they love thinking about heal
 - OE1 Betrifft Geschichte (de)    
 Ob zu Rittern oder Terroristen - Expertinnen und Experten werden so geschickt gefragt, dass sich gut und gerne fünf Minuten zuhören lässt, wie sich eine Antwort entfaltet. Von Montag bis Freitag.
 - Radiowissen (de)
+radioWissen, ein sinnliches Hörerlebnis mit Anspruch: Spannendes aus der Geschichte, Interessantes aus Literatur und Musik, Faszinierendes über Mythen, Menschen und Religionen, Erhellendes aus Philosophie und Psychologie. Wissenswertes über Natur, Biologie und Umwelt, Hintergründe zu Wirtschaft und Politik
 - IQ Wissenschaft und Forschung (de)
+schaut genau hin, auf den Menschen und seine Gesundheit, auf die Erde und ihr Klima, auf die Technik, die die Welt bewegt, auf die Gesellschaft, die sich verändert. Gut recherchiert, verständlich erklärt. 
