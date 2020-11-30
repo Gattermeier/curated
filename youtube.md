@@ -28,4 +28,3 @@
 - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
 - [BlackPenRedPen](https://www.youtube.com/user/blackpenredpen)
 - [Vihart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg)
-- [The Young Turks](https://www.youtube.com/user/TheYoungTurks)
