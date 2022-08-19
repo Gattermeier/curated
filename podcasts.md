@@ -2,6 +2,10 @@
 
 - The Daily  
 Twenty minutes a day, five days a week, hosted by Michael Barbaro and powered by New York Times journalism.
+- Post Reports
+The Washington Post's equivalent of the Times' Daily podcast
+- Throughline
+Go back in time to understand the present. A truely brilliant podcast in some ways similar to Radiolab.
 - NPR: Ted radio hour    
 The TED Radio Hour is a journey through fascinating ideas: astonishing inventions, fresh approaches to old problems, new ways to think and create. Based on Talks given by riveting speakers on the world-renowned TED stage.
 - The History of Rome    
