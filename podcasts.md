@@ -8,7 +8,7 @@ The TED Radio Hour is a journey through fascinating ideas: astonishing invention
 This series from Mike Duncan made me a podcast addict. You HAVE to listen to ALL of it. The History of Rome is a now completed weekly podcast tracing the history of the Roman Empire, beginning with Aeneas's arrival in Italy and ending with the exile of Romulus Augustulus, last Emperor of the Western Roman Empire. 
 - Revolutions    
 A weekly podcast series by Mike Duncan examining great political revolutions. From the French, Haitian to the Latin American Revolutions. 
-- How I built it  
+- How I built this  
 a podcast about innovators, entrepreneurs, and idealists, and the stories behind the movements they built. Each episode is a narrative journey marked by triumphs, failures, serendipity and insight — told by the founders of some of the world's best known companies and brands. If you've ever built something from nothing, something you really care about — or even just dream about it — check out.
 - Code Switch  
 Ever find yourself in a conversation about race and identity where you just get...stuck? Code Switch can help. We're all journalists of color, and this isn't just the work we do. It's the lives we lead. Sometimes, we'll make you laugh. Other times, you'll get uncomfortable. But we'll always be unflinchingly honest and empathetic. 
