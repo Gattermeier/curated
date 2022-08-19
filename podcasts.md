@@ -17,6 +17,14 @@ Ever find yourself in a conversation about race and identity where you just get.
 A fascinating, excellent show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. 
 - Planet Money     
 The economy, explained, with stories and surprises. 
+- Today Explained
+Daily news explainer by VOX
+- The Economist
+Trends and tales from around the world, current affairs, business and finance—as well as science and technology.
+- Shortwave
+New discoveries, everyday mysteries, and the science behind the headlines — all in about 10 minutes
+- The Indicator
+A quick hit of insight into work, business, the economy, and everything else, by the people behind Planet Money
 - Intelligence Squared 
 - The Moth
 - Sci Fri   
