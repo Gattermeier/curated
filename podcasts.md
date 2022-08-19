@@ -1,11 +1,11 @@
 # Podcasts
 
-- The Daily  
+- The Daily    
 Twenty minutes a day, five days a week, hosted by Michael Barbaro and powered by New York Times journalism.
-- Post Reports
-The Washington Post's equivalent of the Times' Daily podcast
-- Throughline
-Go back in time to understand the present. A truely brilliant podcast in some ways similar to Radiolab.
+- Post Reports    
+The Washington Post's equivalent of the Times' Daily podcast  
+- Throughline    
+Go back in time to understand the present. A truely brilliant podcast in some ways similar to Radiolab.  
 - NPR: Ted radio hour    
 The TED Radio Hour is a journey through fascinating ideas: astonishing inventions, fresh approaches to old problems, new ways to think and create. Based on Talks given by riveting speakers on the world-renowned TED stage.
 - The History of Rome    
@@ -21,14 +21,14 @@ Ever find yourself in a conversation about race and identity where you just get.
 A fascinating, excellent show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. 
 - Planet Money     
 The economy, explained, with stories and surprises. 
-- Today Explained
-Daily news explainer by VOX
-- The Economist
-Trends and tales from around the world, current affairs, business and finance—as well as science and technology.
-- Shortwave
-New discoveries, everyday mysteries, and the science behind the headlines — all in about 10 minutes
-- The Indicator
-A quick hit of insight into work, business, the economy, and everything else, by the people behind Planet Money
+- Today Explained    
+Daily news explainer by VOX  
+- The Economist    
+Trends and tales from around the world, current affairs, business and finance—as well as science and technology.  
+- Shortwave    
+New discoveries, everyday mysteries, and the science behind the headlines — all in about 10 minutes.  
+- The Indicator    
+A quick hit of insight into work, business, the economy, and everything else, by the people behind Planet Money  
 - Intelligence Squared 
 - The Moth
 - Sci Fri   
